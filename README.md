@@ -3,10 +3,14 @@
 - **Class:MAS02**
 - **Lecturer:PhD Tạ Văn Cánh,PhD Cand. Vương Thị Nhung**
 - **Group:05**
-  
+
+---
+
 ## Members
 #### Team leader:Lê Duy Anh
 ![Screenshot 2024-11-03 201841](https://github.com/user-attachments/assets/a2714b1b-6ba3-4889-85fd-366598b6bf54)
+
+---
 
 ## Project Overview
 
