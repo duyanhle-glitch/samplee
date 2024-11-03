@@ -48,7 +48,7 @@ This project is aimed at developing a comprehensive pharmacy selling website. Th
 
 ## Use Case Diagrams
 
-![462544216_475307712190971_6870463527501108840_n](https://github.com/user-attachments/assets/e7e2571e-630c-4427-ae0e-1a2323b676da)
+![462540884_1099801611777895_6010510804442673786_n](https://github.com/user-attachments/assets/c4dffc90-264c-4bd8-8f0d-f683704f58c7)
 
 
 
