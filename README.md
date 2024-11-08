@@ -60,7 +60,7 @@ This project is aimed at developing a comprehensive pharmacy selling website. Th
 
 ## Class Diagrams
 
-![462536775_1059857782277016_8098986351452696346_n](https://github.com/user-attachments/assets/6b0d8783-4b8d-48c5-8bff-37cd305776c8)
+![Screenshot 2024-11-08 104929](https://github.com/user-attachments/assets/92807674-9c35-4bb0-84f0-464c7e56fb92)
 
 ---
 
